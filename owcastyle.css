@@ -1,0 +1,39 @@
+h1{
+    text-align: center;
+    font-size: 40px;
+    font-family: monospace;
+}
+
+h2{
+    text-align: center;
+    font-size: 32px;
+    font-family: monospace;
+    margin: 100px 0px 0px  0px;
+}
+
+h2:hover{
+    color: blue;
+}
+    
+
+h3{
+    text-align: center;
+    font-size: 30px;
+    font-family: monospace;
+    margin: 50px 0px 0px 0px;
+}
+
+h3:hover{
+    color: blue;
+}
+
+h4{
+    text-align: center;
+    font-size: 30px;
+    font-family: monospace;
+    margin: 200px 0px 0px 0px;
+}
+
+h4:hover{
+    color: red;
+}
